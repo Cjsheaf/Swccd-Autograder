@@ -1,0 +1,13 @@
+
+BLOCKED FILE ALERT
+
+A file has been blocked due to the 'File Filter' rule.
+Context: 'a.exe'
+Disallowed due to 
+Ticket Number: '08b4-5448-0a0b-0007'
+
+
+See your system administrator for further information. 
+Copyright 1999-2008 McAfee, Inc.
+All Rights Reserved.
+http://www.mcafee.com
